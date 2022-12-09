@@ -1,0 +1,6 @@
+android
+ios
+.vscode
+node_modules
+package.json
+coverage
